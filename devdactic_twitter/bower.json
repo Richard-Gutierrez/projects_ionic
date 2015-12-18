@@ -1,0 +1,11 @@
+{
+  "name": "devdactic-twitter",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.1"
+  },
+  "dependencies": {
+    "ng-twitter-api": "master",
+    "ngCordova": "master"
+  }
+}
